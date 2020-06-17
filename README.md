@@ -12,6 +12,9 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
 </a>
 
+## Downlod the Dataset
+https://drive.google.com/drive/folders/19oFZuTZMqAWgYkkjrFQ_YUySDd2qUHFR?usp=sharing
+
 ## Run Locally
 
 ## Requirements
