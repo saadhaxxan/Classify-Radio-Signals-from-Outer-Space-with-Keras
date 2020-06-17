@@ -22,7 +22,7 @@ Type below command in cmd to get up and running with the dependencies of the fil
 ```
 git clone https://github.com/saadhaxxan/Classify-Radio-Signals-from-Outer-Space-with-Keras.git
 cd Classify-Radio-Signals-from-Outer-Space-with-Keras
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
